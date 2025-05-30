@@ -1,8 +1,23 @@
-# My First Repository
+# Chinese Course - Term 1
 
-This is my first GitHub repository. It contains basic HTML practice and will grow as I learn more about web development and Git.
+Welcome to Amber's Adult Chinese Course resource repository.
 
-👩‍🏫 I'm currently focused on:
-- Teaching Chinese language in Australia
-- Exploring Git and HTML basics
-- Learning how to organize educational content with code
+## Course Introduction
+
+- Teacher: Amber  
+- Location: Ballarat, Australia  
+- Duration: 10 lessons per term, 1 hour per lesson  
+- Format: One-on-one / One-on-two / One-on-three  
+- Fees:  
+  - One-on-one: AU$50/hour  
+  - One-on-two: AU$80/hour  
+  - One-on-three: AU$90/hour  
+
+## Course Materials
+
+This repository will contain weekly vocabulary lists, listening materials, and homework assignments.
+
+## Contact Information
+
+- Email: amberz232@gmail.com  
+- GitHub Profile: [https://github.com/amberz232](https://github.com/amberz232)
